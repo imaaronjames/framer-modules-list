@@ -14,7 +14,7 @@ maybe summary
   - **`description`** - A small description for your module
   - **`author`**
     - **`name`** - Your name
-    - **`url`** - Your url [github, twitter, etc...]
+    - **`url`** - Your url (*github, twitter, etc...*)
   - **`url`** - GitHub url for your module
   - **`demo`** - Demo url for your module
 3. Submit your pull request.
