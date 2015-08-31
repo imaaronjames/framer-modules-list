@@ -1,0 +1,26 @@
+[
+  {
+    "name": "textLayer-for-Framer",
+    "description": "Framer.js module that simplifies the process of adding text to your prototypes.",
+    "author": [
+      {
+        "name": "awt2542",
+        "url": "https://github.com/awt2542"
+      }
+    ],
+    "url": "https://github.com/awt2542/textLayer-for-Framer",
+    "demo": "https://github.com/awt2542/textLayer-for-Framer#examples"
+  },
+  {
+    "name": "Kinetics",
+    "description": "Layer animator for Framer",
+    "author": [
+      {
+        "name": "joshmtucker",
+        "url": "https://github.com/joshmtucker"
+      }
+    ],
+    "url": "https://github.com/joshmtucker/Kinetics",
+    "demo": "https://github.com/joshmtucker/Kinetics#how-to-use"
+  }
+]
