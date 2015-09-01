@@ -1,5 +1,18 @@
 [
   {
+    "name": "framer-viewNavigationController",
+    "description": "A simple controller for FramerJS that allows you to transition between views with just a couple lines of code.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "Chris Camargo",
+        "url": "https://twitter.com/chriscamargo"
+      }
+    ],
+    "url": "https://github.com/chriscamargo/framer-viewNavigationController",
+    "demo": "http://share.framerjs.com/udj8iypljdfs/"
+  },
+  {
     "name": "textLayer-for-Framer",
     "description": "Framer.js module that simplifies the process of adding text to your prototypes.",
     "thumbnail": "",
