@@ -167,5 +167,83 @@
     ],
     "url": "https://github.com/joshmtucker/ScaleFrame",
     "demo": "https://github.com/joshmtucker/ScaleFrame/tree/master/scaleFrame.framer"
+  },
+  {
+    "name": "Framer-Grid",
+    "description": "A flexible Framer Module that creates a grid overlay on top of your prototype.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "nilshoenson",
+        "url": "http://nilshoenson.com/"
+      }
+    ],
+    "url": "https://github.com/nilshoenson/Framer-Grid",
+    "demo": "http://share.framerjs.com/lbl0okamp6lp/"
+  },
+  {
+    "name": "framer-label",
+    "description": "Label module with multi-line truncation support for Framer.js.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "peteschaffner",
+        "url": "http://twitter.com/peteschaffner"
+      }
+    ],
+    "url": "https://github.com/peteschaffner/framer-label",
+    "demo": "http://share.framerjs.com/60mt6v9a8257/"
+  },
+  {
+    "name": "framer-equally-rotate-images",
+    "description": "Give this module an array of images, and it will rotate them equally around in a circular path",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "aboutjax",
+        "url": "http://www.jackylee.co/"
+      }
+    ],
+    "url": "https://github.com/aboutjax/framer-equally-rotate-images",
+    "demo": "http://share.framerjs.com/qhoqu1p9urk6/"
+  },
+  {
+    "name": "framer-colour-transition",
+    "description": "A framer module that transitions the background colour of a layer.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "nickmangos",
+        "url": "https://github.com/nickmangos"
+      }
+    ],
+    "url": "https://github.com/nickmangos/framer-colour-transition",
+    "demo": "http://share.framerjs.com/m1zbxn0d61nb/"
+  },
+  {
+    "name": "RippleTransition.framer",
+    "description": "Framer JS Module for a Material design like ripple transition",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "offirg",
+        "url": "https://github.com/offirg"
+      }
+    ],
+    "url": "https://github.com/offirg/RippleTransition.framer",
+    "demo": ""
+  },
+  {
+    "name": "framer-webview",
+    "description": "Web view module for Framer.js",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "peteschaffner",
+        "url": "http://twitter.com/peteschaffner"
+      }
+    ],
+    "url": "https://github.com/peteschaffner/framer-webview",
+    "demo": ""
   }
 ]
