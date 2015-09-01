@@ -15,7 +15,7 @@
   {
     "name": "Kinetics",
     "description": "Layer animator for Framer",
-    "thumbnail": "",
+    "thumbnail": "https://camo.githubusercontent.com/0d2509aec668e909c0ab82f3cda666f8ce4eb50c/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f73686d7475636b65722f4b696e65746963732f6d61737465722f726561646d65496d616765732f636f6e74726f6c732e676966",
     "author": [
       {
         "name": "joshmtucker",
@@ -24,5 +24,18 @@
     ],
     "url": "https://github.com/joshmtucker/Kinetics",
     "demo": "https://github.com/joshmtucker/Kinetics#how-to-use"
+  },
+  {
+    "name": "shortcuts-for-framer",
+    "description": "A collection of useful functions to make mobile prototyping with Framer easier.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "cemre",
+        "url": "https://github.com/cemre"
+      }
+    ],
+    "url": "https://github.com/facebook/shortcuts-for-framer",
+    "demo": "https://github.com/facebook/shortcuts-for-framer#general"
   }
 ]
