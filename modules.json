@@ -130,16 +130,42 @@
     "demo": ""
   },
   {
-    "name": "framer.iosnotification",
-    "description": "A framer module that mimics an iOS notification.",
+    "name": "OrientationEvents",
+    "description": "Module for Framer Studio to handle device orientation events.",
     "thumbnail": "",
     "author": [
       {
-        "name": "leinerud",
-        "url": "https://github.com/leinerud"
+        "name": "joshmtucker",
+        "url": "https://twitter.com/joshmtucker"
       }
     ],
-    "url": "https://github.com/leinerud/framer.iosnotification",
-    "demo": ""
+    "url": "https://github.com/joshmtucker/OrientationEvents",
+    "demo": "https://github.com/joshmtucker/OrientationEvents/tree/master/ExampleOrientationEvents.framer"
+  },
+  {
+    "name": "framer.RippleTransition",
+    "description": "Framer JS Module for a Material design like ripple transition",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "offirg75",
+        "url": "https://github.com/offirg75"
+      }
+    ],
+    "url": "https://github.com/offirg75/framer.RippleTransition",
+    "demo": "http://share.framerjs.com/jzaf459ldxnu/"
+  },
+  {
+    "name": "ScaleFrame",
+    "description": "Module for Framer Studio to calculate properties of a scaled layer using its new dimensions.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "joshmtucker",
+        "url": "https://twitter.com/joshmtucker"
+      }
+    ],
+    "url": "https://github.com/joshmtucker/ScaleFrame",
+    "demo": "https://github.com/joshmtucker/ScaleFrame/tree/master/scaleFrame.framer"
   }
 ]
