@@ -1,21 +1,18 @@
 ## Framer Modules List
 
-description
-
+A collection of [Framer](http://www.framerjs.com/) modules
 
 ### Submitting A New Plugin
-
-maybe summary
 
 ##### Steps:
 1. Fork this repo
 2. Edit [this JSON file](https://github.com/interacthings/framer-modules-list/blob/master/modules.json) by adding your plugin with the following information:
   - **`name`** - Name of your module
-  - **`description`** - A small description for your module
-  - **`thumbnail`** - Thumbnail for your module
+  - **`description`** - A small description of your module
+  - **`thumbnail`** - Thumbnail of your module (800×600 pixels, JPG, GIF or PNG)
   - **`author`**
     - **`name`** - Your name
     - **`url`** - Your url (*github, twitter, etc...*)
-  - **`url`** - GitHub url for your module
-  - **`demo`** - Demo url for your module
+  - **`url`** - GitHub url of your module
+  - **`demo`** - Demo url of your module
 3. Submit your pull request.
