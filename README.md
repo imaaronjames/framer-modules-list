@@ -2,6 +2,10 @@
 
 A collection of [Framer](http://www.framerjs.com/) modules
 
+### Framer Modules
+
+Modules allow you to reuse code across many different projects and teams. Read [full documentation](http://framerjs.com/docs/#modules)
+
 ### Submitting A New Plugin
 
 ##### Steps:
