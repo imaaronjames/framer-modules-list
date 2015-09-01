@@ -297,5 +297,44 @@
     ],
     "url": "https://github.com/joshmtucker/SpeechSynth",
     "demo": "https://github.com/joshmtucker/SpeechSynth#example"
+  },
+  {
+    "name": "Comment-for-Framer",
+    "description": "Framer.js module for making comments in your prototypes",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "awt2542",
+        "url": "https://twitter.com/andreaswah"
+      }
+    ],
+    "url": "https://github.com/awt2542/Comment-for-Framer",
+    "demo": "https://github.com/awt2542/Comment-for-Framer#examples"
+  },
+  {
+    "name": "framer.makeGradient",
+    "description": "This is a module for framer.js that makes it easy to create static linear/radial gradients. Want them to animate? I welcome pull requests.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "cupofjoakim",
+        "url": "https://github.com/cupofjoakim"
+      }
+    ],
+    "url": "https://github.com/cupofjoakim/framer.makeGradient",
+    "demo": ""
+  },
+  {
+    "name": "framer.placehold",
+    "description": "A framer module that provides a library of different image placeholder services.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "cupofjoakim",
+        "url": "https://github.com/cupofjoakim"
+      }
+    ],
+    "url": "https://github.com/cupofjoakim/framer.placehold",
+    "demo": ""
   }
 ]
