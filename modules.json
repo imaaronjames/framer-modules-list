@@ -245,5 +245,57 @@
     ],
     "url": "https://github.com/peteschaffner/framer-webview",
     "demo": ""
+  },
+  {
+    "name": "framer-uistatusbar",
+    "description": "iOS status bar module for Framer.js",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "peteschaffner",
+        "url": "http://twitter.com/peteschaffner"
+      }
+    ],
+    "url": "https://github.com/peteschaffner/framer-uistatusbar",
+    "demo": ""
+  },
+  {
+    "name": "framer.module.ajax",
+    "description": "An Ajax module for Framer.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "karlerikjonatan",
+        "url": "http://karlerikjonatan.github.io/"
+      }
+    ],
+    "url": "https://github.com/karlerikjonatan/framer.module.ajax",
+    "demo": ""
+  },
+  {
+    "name": "framer.module.fill",
+    "description": "A fill module for Framer.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "karlerikjonatan",
+        "url": "http://karlerikjonatan.github.io/"
+      }
+    ],
+    "url": "https://github.com/karlerikjonatan/framer.module.fill",
+    "demo": "https://github.com/karlerikjonatan/framer.module.fill#example"
+  },
+  {
+    "name": "SpeechSynth",
+    "description": "Framer module for Web SpeechSynthesis",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "joshmtucker",
+        "url": "https://twitter.com/joshmtucker"
+      }
+    ],
+    "url": "https://github.com/joshmtucker/SpeechSynth",
+    "demo": "https://github.com/joshmtucker/SpeechSynth#example"
   }
 ]
