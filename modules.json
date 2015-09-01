@@ -32,10 +32,49 @@
     "author": [
       {
         "name": "cemre",
-        "url": "https://github.com/cemre"
+        "url": "http://cem.re/"
       }
     ],
     "url": "https://github.com/facebook/shortcuts-for-framer",
     "demo": "https://github.com/facebook/shortcuts-for-framer#general"
+  },
+  {
+    "name": "Input-Framer",
+    "description": "Framer module to easily turn your designs inputs into real inputs.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "ajimix",
+        "url": "http://www.ajimix.net/"
+      }
+    ],
+    "url": "https://github.com/ajimix/Input-Framer",
+    "demo": "https://github.com/ajimix/Input-Framer#how-to-use-it"
+  },
+  {
+    "name": "framer-animation-collections",
+    "description": "Framer.js classes for managing large sets of animations",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "isaacw",
+        "url": "http://isaacw.com/"
+      }
+    ],
+    "url": "https://github.com/isaacw/framer-animation-collections",
+    "demo": "https://github.com/isaacw/framer-animation-collections#example"
+  },
+  {
+    "name": "Framer-AudioPlayer",
+    "description": "AudioPlayer Module for Framer",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "benjaminnathan",
+        "url": "http://www.framerjs.com/"
+      }
+    ],
+    "url": "https://github.com/benjaminnathan/Framer-AudioPlayer",
+    "demo": "https://github.com/benjaminnathan/Framer-AudioPlayer#examples"
   }
 ]
