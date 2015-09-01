@@ -12,6 +12,7 @@ maybe summary
 2. Edit [this JSON file](https://github.com/interacthings/framer-modules-list/blob/master/modules.json) by adding your plugin with the following information:
   - **`name`** - Name of your module
   - **`description`** - A small description for your module
+  - **`thumbnail`** - Thumbnail for your module
   - **`author`**
     - **`name`** - Your name
     - **`url`** - Your url (*github, twitter, etc...*)
