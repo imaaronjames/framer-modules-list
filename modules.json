@@ -6,7 +6,7 @@
     "author": [
       {
         "name": "awt2542",
-        "url": "https://github.com/awt2542"
+        "url": "https://twitter.com/andreaswah"
       }
     ],
     "url": "https://github.com/awt2542/textLayer-for-Framer",
@@ -19,7 +19,7 @@
     "author": [
       {
         "name": "joshmtucker",
-        "url": "https://github.com/joshmtucker"
+        "url": "https://twitter.com/joshmtucker"
       }
     ],
     "url": "https://github.com/joshmtucker/Kinetics",
@@ -37,6 +37,19 @@
     ],
     "url": "https://github.com/facebook/shortcuts-for-framer",
     "demo": "https://github.com/facebook/shortcuts-for-framer#general"
+  },
+  {
+    "name": "framer-flip-card-module",
+    "description": "A framer module to quickly create a flip card effect with two image layers",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "aboutjax",
+        "url": "http://www.jackylee.co/"
+      }
+    ],
+    "url": "https://github.com/aboutjax/framer-flip-card-module",
+    "demo": "http://share.framerjs.com/5ggio6opb1iw/"
   },
   {
     "name": "Input-Framer",
@@ -76,5 +89,57 @@
     ],
     "url": "https://github.com/benjaminnathan/Framer-AudioPlayer",
     "demo": "https://github.com/benjaminnathan/Framer-AudioPlayer#examples"
+  },
+  {
+    "name": "tabBarModule",
+    "description": "A module for Framer that replicates the iOS tab bar.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "petterheterjag",
+        "url": "http://petter.pro/"
+      }
+    ],
+    "url": "https://github.com/petterheterjag/tabBarModule",
+    "demo": "https://github.com/petterheterjag/tabBarModule#examples"
+  },
+  {
+    "name": "StickyStamps-for-Framer",
+    "description": "A module to create scroll components with sticky stamps in Framer.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "72",
+        "url": "http://setentaydos.com/"
+      }
+    ],
+    "url": "https://github.com/72/StickyStamps-for-Framer",
+    "demo": "https://github.com/72/StickyStamps-for-Framer#examples"
+  },
+  {
+    "name": "framer.iosnotification",
+    "description": "A framer module that mimics an iOS notification.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "leinerud",
+        "url": "https://github.com/leinerud"
+      }
+    ],
+    "url": "https://github.com/leinerud/framer.iosnotification",
+    "demo": ""
+  },
+  {
+    "name": "framer.iosnotification",
+    "description": "A framer module that mimics an iOS notification.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "leinerud",
+        "url": "https://github.com/leinerud"
+      }
+    ],
+    "url": "https://github.com/leinerud/framer.iosnotification",
+    "demo": ""
   }
 ]
