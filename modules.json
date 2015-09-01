@@ -9,7 +9,8 @@
       }
     ],
     "url": "https://github.com/awt2542/textLayer-for-Framer",
-    "demo": "https://github.com/awt2542/textLayer-for-Framer#examples"
+    "demo": "https://github.com/awt2542/textLayer-for-Framer#examples",
+    "thumbnail": ""
   },
   {
     "name": "Kinetics",
@@ -21,6 +22,7 @@
       }
     ],
     "url": "https://github.com/joshmtucker/Kinetics",
-    "demo": "https://github.com/joshmtucker/Kinetics#how-to-use"
+    "demo": "https://github.com/joshmtucker/Kinetics#how-to-use",
+    "thumbnail": ""
   }
 ]
