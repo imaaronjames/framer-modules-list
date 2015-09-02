@@ -1,5 +1,18 @@
 [
   {
+    "name": "CameraLayer",
+    "description": "Framer.js layer displaying camera image.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "Keishi Tsuchiya",
+        "url": "https://github.com/ktcy"
+      }
+    ],
+    "url": "https://github.com/ktcy/CameraLayer",
+    "demo": ""
+  },
+  {
     "name": "WatchKit",
     "description": "Apple Watch Kit for FramerJS to help you easily create Apple Watch interfaces in your prototypes.",
     "thumbnail": "",
