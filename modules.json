@@ -1,5 +1,18 @@
 [
   {
+    "name": "iOS Keyboard",
+    "description": "Simulate show/hide and key presses of iOS keyboard within your prototype.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "Moses Ting",
+        "url": "https://twitter.com/mosesting"
+      }
+    ],
+    "url": "https://github.com/supsupmo/ios-keyboard-for-framer",
+    "demo": "https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.gif"
+  },
+  {
     "name": "textLayer-for-Framer",
     "description": "Framer.js module that simplifies the process of adding text to your prototypes.",
     "thumbnail": "",
