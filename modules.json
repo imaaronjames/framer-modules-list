@@ -26,17 +26,17 @@
     "demo": "https://github.com/ajimix/WatchKit-Framer#componentswa"
   },
   {
-    "name": "iOS Keyboard",
-    "description": "Simulate show/hide and key presses of iOS keyboard within your prototype.",
+    "name": "ios-keyboard-for-framer",
+    "description": "Because sometimes we all need to simulate typing in our framer prototypes.",
     "thumbnail": "",
     "author": [
       {
         "name": "Moses Ting",
-        "url": "https://twitter.com/mosesting"
+        "url": "http://moses.is/"
       }
     ],
     "url": "https://github.com/supsupmo/ios-keyboard-for-framer",
-    "demo": "https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.gif"
+    "demo": "https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.mov?raw=true"
   },
   {
     "name": "textLayer-for-Framer",
@@ -388,18 +388,5 @@
     ],
     "url": "https://github.com/chriscamargo/framer-viewNavigationController",
     "demo": "http://share.framerjs.com/udj8iypljdfs/"
-  },
-  {
-    "name": "ios-keyboard-for-framer",
-    "description": "Because sometimes we all need to simulate typing in our framer prototypes.",
-    "thumbnail": "",
-    "author": [
-      {
-        "name": "Moses Ting",
-        "url": "http://moses.is/"
-      }
-    ],
-    "url": "https://github.com/supsupmo/ios-keyboard-for-framer",
-    "demo": "https://github.com/supsupmo/ios-keyboard-for-framer/blob/master/demo/iPhone6.mov?raw=true"
   }
 ]
