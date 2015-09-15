@@ -1,5 +1,18 @@
 [
   {
+    "name": "Navigation Component",
+    "description": "A navigation component for Framer, based on iOS UINavigationController.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "jchavarri",
+        "url": "https://github.com/jchavarri"
+      }
+    ],
+    "url": "https://github.com/jchavarri/FramerNavigationComponent",
+    "demo": "http://share.framerjs.com/5bb4btk491ux/"
+  },
+  {
     "name": "Shake Event",
     "description": "Shake Event for FramerJS",
     "thumbnail": "https://github.com/RayPS/Framer-Module-ShakeEvent/raw/master/demo.gif",
