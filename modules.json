@@ -1,5 +1,31 @@
 [
   {
+    "name": "Shake Event",
+    "description": "Shake Event for FramerJS",
+    "thumbnail": "https://github.com/RayPS/Framer-Module-ShakeEvent/raw/master/demo.gif",
+    "author": [
+      {
+        "name": "rayps",
+        "url": "https://github.com/RayPS"
+      }
+    ],
+    "url": "https://github.com/RayPS/Framer-Module-ShakeEvent",
+    "demo": "http://share.framerjs.com/bb1is3lkolp7/"
+  },
+  {
+    "name": "UISound",
+    "description": "UISound Module for FramerJS",
+    "thumbnail": "https://d13yacurqjgara.cloudfront.net/users/93467/screenshots/2244759/uisounddrbl.png",
+    "author": [
+      {
+        "name": "rayps",
+        "url": "https://github.com/RayPS"
+      }
+    ],
+    "url": "https://github.com/RayPS/Framer-Module-UISound/",
+    "demo": "http://share.framerjs.com/95t3ttjoj7om/"
+  },
+  {
     "name": "CameraLayer",
     "description": "Framer.js layer displaying camera image.",
     "thumbnail": "",
