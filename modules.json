@@ -1,5 +1,18 @@
 [
   {
+    "name": "Framer Video Player Module",
+    "description": "A video player module for Framer Studio and Framer.js.",
+    "thumbnail": "",
+    "author": [
+      {
+        "name": "Jay Stakelon",
+        "url": "https://github.com/stakes"
+      }
+    ],
+    "url": "https://github.com/stakes/Framer-VideoPlayer",
+    "demo": ""
+  },
+  {
     "name": "Navigation Component",
     "description": "A navigation component for Framer, based on iOS UINavigationController.",
     "thumbnail": "",
