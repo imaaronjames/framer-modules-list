@@ -1,5 +1,18 @@
 [
   {
+    "name": "Simple Android Snackbar",
+    "description": "A Framer Studio module for adding Android Material Design Snackbars to your project.",
+    "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Snackbar/master/androidSnackbar-Sample-Project.framer/images/sample-code.png",
+    "author": [
+      {
+        "name": "Aaron James",
+        "url": "https://github.com/imaaronjames"
+      }
+    ],
+    "url": "https://github.com/imaaronjames/Simple-Android-Snackbar",
+    "demo": "http://share.framerjs.com/x3pwga3rbpt4/"
+  },
+  {
     "name": "Simple Android Toast",
     "description": "Use this module to easily add Android toasts to your Framer Studio projects.",
     "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Toast/master/androidToast-Sample-Project.framer/images/sample.png",
