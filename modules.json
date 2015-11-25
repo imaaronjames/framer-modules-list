@@ -1,5 +1,18 @@
 [
   {
+    "name": "Simple Android Ripple",
+    "description": "A Framer Studio module for adding Material Design touch ripple animations to any layer.",
+    "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Ripple/master/androidRipple-Sample-Project.framer/images/sample-code.png",
+    "author": [
+      {
+        "name": "Aaron James",
+        "url": "https://github.com/imaaronjames"
+      }
+    ],
+    "url": "https://github.com/imaaronjames/Simple-Android-Ripple",
+    "demo": "http://share.framerjs.com/aqzkcamx0iqw/"
+  },
+  {
     "name": "Framer Video Player Module",
     "description": "A video player module for Framer Studio and Framer.js.",
     "thumbnail": "",
