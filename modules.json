@@ -1,5 +1,31 @@
 [
   {
+    "name": "Simple Android Toast",
+    "description": "Use this module to easily add Android toasts to your Framer Studio projects.",
+    "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Toast/master/androidToast-Sample-Project.framer/images/sample.png",
+    "author": [
+      {
+        "name": "Aaron James",
+        "url": "https://github.com/imaaronjames"
+      }
+    ],
+    "url": "https://github.com/imaaronjames/Simple-Android-Toast",
+    "demo": "http://share.framerjs.com/0ytzaep2ejvb/"
+  },
+  {
+    "name": "Simple Android Keyboards",
+    "description": "Easily add a static Android Keyboard to your Framer Studio project with just one line of code. Keyboards types include: default, numbers, symbols, dialpad, and voice.",
+    "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Keyboards/master/androidKeyboard-Sample-Project.framer/images/samplecode.png",
+    "author": [
+      {
+        "name": "Aaron James",
+        "url": "https://github.com/imaaronjames"
+      }
+    ],
+    "url": "https://github.com/imaaronjames/Simple-Android-Keyboards",
+    "demo": "http://share.framerjs.com/zu4uu0o71rmx/"
+  },
+  {
     "name": "Simple Android Ripple",
     "description": "A Framer Studio module for adding Material Design touch ripple animations to any layer.",
     "thumbnail": "https://raw.githubusercontent.com/imaaronjames/Simple-Android-Ripple/master/androidRipple-Sample-Project.framer/images/sample-code.png",
